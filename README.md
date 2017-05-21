@@ -2,10 +2,9 @@
 Repositório para aprendizado do GitHub
 
 Olá a todos.
-Estou estudando GitHub para implementar no trabalho.
+Estou estudando GitHub para implementar no trabalho
 
-Inclusão de novas linhas 1
-Inclusão de novas linhas 2
-Inclusão de novas linhas 3
-Inclusão de novas linhas 4
-Inclusão de novas linhas 5
+Incluída novas linhas 6
+Incluída novas linhas 7
+Incluída novas linhas 8
+
